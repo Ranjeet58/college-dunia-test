@@ -1,0 +1,153 @@
+
+html {
+  scroll-behavior: smooth;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0 0 5px 0;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  font-size: 0.875rem;
+  line-height: 1.3;
+  background-color: #f4f4f4;
+  box-sizing: border-box;
+}
+
+.spinner {
+  width: 30px;
+  height: 30px;
+  border: 4px solid rgba(0, 0, 0, 0.1); /* Light grey border */
+  border-top-color: #3498db; /* Blue color for spinner */
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.mb-1{
+  margin-bottom: 5px;
+}
+
+.d-flex {
+  display: flex;
+}
+.d-block{
+  display: block;
+}
+.align-items-center{
+  align-items: center;
+}
+.text-sm {
+  font-size: 0.77rem;
+  color: #666;
+  font-weight: 400;
+}
+.text-lg {
+  font-size: 0.98rem;
+}
+.font-weight-medium {
+  font-weight: 500;
+}
+.font-weight-bold {
+  font-weight: 600;
+}
+.college-name h4 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: initial;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  color: #4fb8dd;
+}
+.college-table{
+  padding: 20px;
+}
+.college-table-layout{
+  background-color: #fff;
+}
+.college-table tbody tr td:nth-child(3),
+.college-table tbody tr td:nth-child(4),
+.college-table tbody tr td:nth-child(5),
+.college-table tbody tr td:nth-child(6){
+  width: 13%;
+  min-width: 13%;
+}
+.text-dark-green{
+  color: #3eae8d;
+}
+.text-green{
+  color: #3eae8d;
+}
+.rank-college{
+  margin-right: 4px;
+}
+.text-gray-dark{
+      color: #666;
+}
+.text-yellow{
+  color: #ff7900;
+}
+.college-table table tbody tr:nth-child(even){
+  background-color: #fafafa;
+}
+.college-table-container{
+  gap: 20px;
+  justify-content: flex-end;
+  padding: 15px 10px;
+  border-bottom: 1px solid rgb(222, 222, 222);
+}
+
+.college-table-container .controls input{
+  box-sizing: border-box;
+  border-radius: 50rem;
+  color: rgb(102, 102, 102);
+  border: 1px solid rgb(232, 232, 232);
+  font-family: "Inter", sans-serif;
+  font-size: 0.8rem;
+   padding: 9px 15px;
+}
+.sorting-button button{
+  background-color: transparent;
+  border: 0px;
+  font-family: "Inter", sans-serif;
+  cursor: pointer;
+  color: #666666;
+}
+
+.sorting-button button.active{
+  color: #ff7900;
+}
+.sorting-wrapper h4{
+  margin-right: 10px;
+}
+
+@media screen and (max-width:768px) {
+  .college-table{
+    overflow-x: scroll;
+  }
+  .college-table-container {
+    flex-direction: column;
+  }
+  .sorting-button button, .sorting-wrapper h4{
+    font-size: 12px;
+  }
+  .sorting-wrapper h4{
+    margin-right: 8px;
+  }
+  .sorting-button button{
+    padding: 0px 2px;
+  }
+  .college-table-container .controls input{
+    width: 100%;
+  }
+}

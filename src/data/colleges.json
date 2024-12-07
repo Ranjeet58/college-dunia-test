@@ -1,0 +1,328 @@
+[
+    {
+      "cdRank": 1,
+      "collegeName": "Indian Institute of Technology Bombay (IIT Bombay)",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "type": "Engineering",
+      "rating": 4.8,
+      "topCourses": [
+        "BE/B.Tech",
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "averageFees": "9,20,000",
+      "placementStats": {
+        "averagePackage": "23,50,000",
+        "highestPackage": "3,67,00,000",
+        "topCompanies": ["Google", "Amazon", "Microsoft"]
+      },
+      "ranking":1,
+      "featured": false,
+      "imageUrl": "https://www.iitb.ac.in/themes/custom/iitb_bootstrap/logo.png"
+    },
+    {
+      "cdRank": 2,
+      "collegeName": "Indian Institute of Technology Delhi (IIT Delhi)",
+      "city": "Delhi",
+      "state": "Delhi",
+      "type": "Engineering",
+      "rating": 4.6,
+      "topCourses": [
+        "BE/B.Tech",
+        "Mechanical Engineering",
+        "Electrical Engineering"
+      ],
+      "averageFees": "11,00,000",
+      "placementStats": {
+        "averagePackage": "25,82,000",
+        "highestPackage": "2,00,00,000",
+        "topCompanies": ["Google", "Apple", "Microsoft"]
+      },
+      "ranking":2,
+      "featured": false,
+      "imageUrl": "https://image-static.collegedunia.com/public/college_data/images/logos/col27802.gif?h=43&w=43&mode=stretch"
+    },
+    {
+      "cdRank": 3,
+      "collegeName": "Indian Institute of Technology Madras (IIT Madras)",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "type": "Engineering",
+      "rating": 4.7,
+      "topCourses": [
+        "BE/B.Tech",
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "averageFees": "9,90,000",
+      "placementStats": {
+        "averagePackage": "21,48,000",
+        "highestPackage": "1,98,00,000",
+        "topCompanies": ["Google", "Amazon", "Microsoft"]
+      },
+      "ranking":3,
+      "featured": false,
+      "imageUrl": "https://image-static.collegedunia.com/public/college_data/images/logos/1434977143jpjpjpjpj.jpg?h=43&w=43&mode=stretch"
+    },
+    {
+      "cdRank": 4,
+      "collegeName": "Indian Institute of Technology Kanpur (IIT Kanpur)",
+      "city": "Kanpur",
+      "state": "Uttar Pradesh",
+      "type": "Engineering",
+      "rating": 4.6,
+      "topCourses": [
+        "BE/B.Tech",
+        "Electrical Engineering",
+        "Computer Science Engineering"
+      ],
+      "averageFees": "9,97,000",
+      "placementStats": {
+        "highestPackage": "1,90,00,000",
+        "topCompanies": ["Microsoft", "Intel", "TCS"]
+      },
+      "ranking":4,
+      "featured": false,
+      "imageUrl": "https://image-static.collegedunia.com/public/college_data/images/logos/1408554560logo.png?h=43&w=43&mode=stretch"
+    },
+    {
+      "cdRank": 5,
+      "collegeName": "Indian Institute of Technology Kharagpur (IIT Kharagpur)",
+      "city": "Kharagpur",
+      "state": "West Bengal",
+      "type": "Engineering",
+      "rating": 4.4,
+      "topCourses": [
+        "BE/B.Tech",
+        "Computer Science Engineering",
+        "Mechanical Engineering"
+      ],
+      "averageFees": "9,50,00",
+      "placementStats": {
+        "highestPackage": "2,60,00,000",
+        "topCompanies": ["Google", "Amazon", "Goldman Sachs"]
+      },
+      "ranking":5,
+      "featured": false,
+      "imageUrl": "https://image-static.collegedunia.com/public/college_data/images/logos/1489041138e2.jpg?h=43&w=43&mode=stretch"
+    },
+    {
+      "cdRank": 6,
+      "collegeName": "Don Bosco Institute of Technology - [DBIT]",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "type": "Engineering",
+      "rating": 4,
+      "topCourses": [
+        "BE/B.Tech",
+        "Computer Science",
+        "Electronics Engineering"
+      ],
+      "averageFees": "3,86,000",
+      "placementStats": {
+        "highestPackage": "10,00,000",
+        "topCompanies": ["Google", "TCS", "Wipro"]
+      },
+      "ranking":541,
+      "featured": true,
+      "imageUrl": "https://image-static.collegedunia.com/public/college_data/images/logos/1627723439DBIT.jpg?h=39&w=39&mode=stretch"
+    },
+    {
+      "cdRank": 7,
+      "collegeName": "Birla Institute of Technology and Science (BITS) Pilani",
+      "city": "Pilani",
+      "state": "Rajasthan",
+      "type": "Engineering",
+      "rating": 4.7,
+      "topCourses": [
+        "BE/B.Tech",
+        "Electronics Engineering",
+        "Computer Science"
+      ],
+      "averageFees": "25,00,000",
+      "placementStats": {
+        "averagePackage": "30,37,000",
+        "highestPackage": "60,75,000",
+        "topCompanies": ["Facebook", "Amazon", "Google"]
+      },
+      "ranking":8,
+      "featured": false,
+      "imageUrl": "https://image-static.collegedunia.com/public/college_data/images/logos/1589790676112018648848892482726766654702028085722509n.jpg?h=43&w=43&mode=stretch"
+    },
+    {
+      "cdRank": 8,
+      "collegeName": "Vellore Institute of Technology (VIT)",
+      "city": "Vellore",
+      "state": "Tamil Nadu",
+      "type": "Engineering",
+      "rating": 4.4,
+      "topCourses": [
+        "BE/B.Tech",
+        "Biotechnology",
+        "Mechanical Engineering"
+      ],
+      "averageFees": "7,92,000",
+      "placementStats": {
+        "averagePackage": "9,90,000",
+        "highestPackage": "88,00,000",
+        "topCompanies": ["Cognizant", "Infosys", "HCL"]
+      },
+      "ranking":47,
+      "featured": false,
+      "imageUrl": "https://image-static.collegedunia.com/public/college_data/images/logos/1604923303Logo.jpg?h=43&w=43&mode=stretch"
+    },
+    {
+      "cdRank": 9,
+      "collegeName": "Anna University",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "type": "Engineering",
+      "rating": 4.6,
+      "topCourses": [
+        "BE/B.Tech",
+        "Electrical Engineering",
+        "IT"
+      ],
+      "averageFees": "2,00,000",
+      "placementStats": {
+        "averagePackage": "9,90,000",
+        "topCompanies": ["Wipro", "Infosys", "TCS"]
+      },
+      "ranking":41,
+      "featured": false,
+      "imageUrl": "https://image-static.collegedunia.com/public/college_data/images/logos/13941065084.png?h=43&w=43&mode=stretch"
+    },
+    {
+      "cdRank": 10,
+      "collegeName": "Indian Institute of Technology Roorkee (IIT Roorkee)",
+      "city": "Roorkee",
+      "state": "Uttarakhand",
+      "type": "Engineering",
+      "rating": 4.5,
+      "topCourses": [
+        "BE/B.Tech",
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "averageFees": "9,20,400",
+      "placementStats": {
+        "averagePackage": "18,34,000",
+        "highestPackage": "1,30,00,000",
+        "topCompanies": ["Amazon", "Google", "Microsoft"]
+      },
+      "ranking":6,
+      "featured": false,
+      "imageUrl": "https://image-static.collegedunia.com/public/college_data/images/logos/1431775682rajiv.jpg?h=43&w=43&mode=stretch"
+    },
+    {
+      "cdRank": 11,
+      "collegeName": "Indian Institute of Technology Guwahati (IIT Guwahati)",
+      "city": "Guwahati",
+      "state": "Assam",
+      "type": "Engineering",
+      "rating": 4.3,
+      "topCourses": [
+        "BE/B.Tech",
+        "Mechanical Engineering",
+        "Computer Science Engineering"
+      ],
+      "averageFees": "11,53,000",
+      "placementStats": {
+        "highestPackage": "2,40,00,000",
+        "topCompanies": ["Samsung", "Microsoft", "Accenture"]
+      },
+      "ranking":7,
+      "featured": false,
+      "imageUrl": "https://image-static.collegedunia.com/public/college_data/images/logos/1394864902Indian%20Institute%20of%20Technology%20-%20IIT%20Guwahati.png?h=43&w=43&mode=stretch"
+    },
+    {
+      "cdRank": 12,
+      "collegeName": "Jamia Millia Islamia University-[JMI], New Delhi",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "type": "Multidisciplinary",
+      "rating": 4.1,
+      "topCourses": [
+        "BE/B.Tech",
+        "MBA",
+        "M.Tech"
+      ],
+      "averageFees": "64,00,000",
+      "placementStats": {
+        "averagePackage": "9,00,000",
+        "highestPackage": "9,00,000",
+        "topCompanies": ["Adobe", "HCL", "Deloitte"]
+      },
+      "ranking":105,
+      "featured": false,
+      "imageUrl": "https://image-static.collegedunia.com/public/college_data/images/logos/1491558776logo.jpg?h=43&w=43&mode=stretch"
+    },
+    {
+      "cdRank": 13,
+      "collegeName": "IIT Bhubaneswar - Indian Institute of Technology - [IITBBS]",
+      "city": "Bhubaneswar",
+      "state": "Odisha ",
+      "type": "Engineering",
+      "rating": 4.1,
+      "topCourses": [
+        "BE/B.Tech",
+        "MBA",
+        "M.Tech"
+      ],
+      "averageFees": "9,65,960",
+      "placementStats": {
+        "averagePackage": "17,16,1000",
+        "highestPackage": "64,00,000",
+        "topCompanies": ["Microsoft", "Facebook", "Google"]
+      },
+      "ranking":34,
+      "featured": false,
+      "imageUrl": "https://image-static.collegedunia.com/public/college_data/images/logos/148491861525759p.png?h=43&w=43&mode=stretch"
+    },
+    {
+      "cdRank": 14,
+      "collegeName": "Manipal Institute of Technology (MIT), Manipal",
+      "city": "Manipal",
+      "state": "Karnataka",
+      "type": "Engineering",
+      "rating": 4.4,
+      "topCourses": [
+        "BE/B.Tech",
+        "Mechanical Engineering",
+        "Electrical Engineering"
+      ],
+      "averageFees": "19,58,000",
+      "placementStats": {
+        "averagePackage": "10,49,000",
+        "highestPackage": "51,03,000",
+        "topCompanies": ["Accenture", "Wipro", "Cognizant"]
+      },
+      "ranking":57,
+      "featured": false,
+      "imageUrl": "https://image-static.collegedunia.com/public/college_data/images/logos/161486289772x80logo1.png?h=43&w=43&mode=stretch"
+    },
+    {
+      "cdRank": 15,
+      "collegeName": "Birla Institute of Technology (BIT) Mesra",
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "type": "Engineering",
+      "rating": 3.8,
+      "topCourses": [
+        "BE/B.Tech",
+        "Computer Science Engineering",
+        "Mechanical Engineering"
+      ],
+      "averageFees": "16,52,000",
+      "placementStats": {
+        "averagePackage": "11,57,000",
+        "highestPackage": "51,00,000",
+        "topCompanies": ["HCL", "IBM", "Wipro"]
+      },
+      "ranking":54,
+      "featured": false,
+      "imageUrl": "https://image-static.collegedunia.com/public/college_data/images/logos/1406023982download.jpg?h=43&w=43&mode=stretch"
+    }
+  ]
+  
